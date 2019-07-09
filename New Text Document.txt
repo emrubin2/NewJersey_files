@@ -1,0 +1,13 @@
+LAB 2 BUGS 
+
+- projection needs to change to even map 
+
+
+- ocean needs to be turned blue
+
+
+- bar chart title needs to be the actual field names instead of just the first letter
+
+
+- Russian numbers on CSV file should be researched better
+
